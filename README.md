@@ -13,11 +13,15 @@
 
 This was my first CTF so I didn't document it well and it's not on CTFTime so there's not much to see here
 
+#### Stats
+
 | Field         | Value         |
 | ------------- | ------------- |
 | Placement     | 9 out of ?    |
 | Points        | ?             |
 | Rating points | N/A           |
+
+#### Solves
 
 | Challenge   | Category |
 | ----------- | -------- |
@@ -31,11 +35,15 @@ This was my first CTF so I didn't document it well and it's not on CTFTime so th
 
 First CTF with a team, sweated so much on this bruh
 
+#### Stats
+
 | Field         | Value                                               |
 | ------------- | --------------------------------------------------- |
 | Placement     | 36th out of 431                                     |
 | Points        | 1945 points                                         |
 | Rating points | 3.514 (currently uncredited due to a name mismatch) |
+
+#### Solves
 
 | Challenge              | Category  | Value | Time (ACST)     | Solved by             |
 | ---------------------- | --------- | ----- | --------------- | --------------------- |
@@ -54,11 +62,15 @@ First CTF with a team, sweated so much on this bruh
 
 Too hard for me
 
+#### Stats
+
 | Field         | Value          |
 | ------------- | -------------- |
 | Placement     | 189 out of 222 |
 | Points        | 200            |
 | Rating points | ?              |
+
+#### Solves
 
 | Challenge | Category  | Level   | Value | Time (ACST)     | Solved by  |
 | --------- | --------- | ------- | ----- | --------------- | ---------- |
@@ -69,11 +81,15 @@ Too hard for me
 
 I did so bad in this I'm starting to think I peaked in UACTF
 
+#### Stats
+
 | Field         | Value          |
 | ------------- | -------------- |
 | Placement     | 309 out of 978 |
 | Points        | 215            |
 | Rating points | ?              |
+
+#### Solves
 
 | Challenge              | Category | Points | Solved by  |
 | ---------------------- | -------- | ------ | ---------- |
@@ -86,11 +102,15 @@ I did so bad in this I'm starting to think I peaked in UACTF
 
 By far, the worst CTF I've ever played. 
 
+#### Stats
+
 | Field         | Value         |
 | ------------- | ------------- |
 | Placement     | 68 out of 557 |
 | Points        | 2250          |
 | Rating points | ?             |
+
+#### Solves
 
 | Challenge                         | Category  | Points |
 | --------------------------------- | --------- | ------ |
