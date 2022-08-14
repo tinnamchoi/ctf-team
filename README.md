@@ -1,4 +1,4 @@
-# ctf-team
+# Our CTF team
 
 | Field                                   | Value                                                                            |
 | --------------------------------------- | -------------------------------------------------------------------------------- |
@@ -23,13 +23,13 @@ This was my first CTF so I didn't document it well and it's not on CTFTime so th
 
 #### Solves
 
-| Challenge   | Category |
-| ----------- | -------- |
-| easyStrings | ?        |
-| Tree        | ?        |
-| top-secret  | ?        |
-| 5-layer dip | ?        |
-| Dinner      | OSINT    |
+| Challenge   | Category | Value | Solved by  |
+| ----------- | -------- | ----- | ---------- |
+| easyStrings | ?        | ?     | tinnamchoi |
+| Tree        | ?        | ?     | tinnamchoi |
+| top-secret  | ?        | ?     | tinnamchoi |
+| 5-layer dip | ?        | ?     | tinnamchoi |
+| Dinner      | OSINT    | ?     | tinnamchoi |
 
 ### UACTF 2022
 
@@ -45,18 +45,18 @@ First CTF with a team, sweated so much on this bruh
 
 #### Solves
 
-| Challenge              | Category  | Value | Time (ACST)     | Solved by             |
-| ---------------------- | --------- | ----- | --------------- | --------------------- |
-| Welcome (freebie)      | misc      | 5     | 20220730-111534 | N/A                   |
-| Non-textual Troubles   | crypto    | 50    | 20220730-121927 | tinnamchoi            |
-| Sanity Check           | reversing | 50    | 20220730-131344 | tinnamchoi            |
-| Lighthouse             | misc      | 489   | 20220730-185621 | covector & tinnamchoi |
-| Juggler                | web       | 383   | 20220731-102940 | covector              |
-| Snake Equality         | misc      | 364   | 20220731-121418 | covector & tinnamchoi |
-| Peter works at Bendigo | crypto    | 50    | 20220731-183155 | covector & tinnamchoi |
-| Colour Blind           | forensics | 50    | 20220731-192208 | tinnamchoi            |
-| Feedback (freebie)     | misc      | 50    | 20220731-195213 | N/A                   |
-| Blurry-Eyed            | misc      | 454   | 20220731-230054 | tinnamchoi            |
+| Challenge              | Category  | Value | Solved by             |
+| ---------------------- | --------- | ----- | --------------------- |
+| Welcome (freebie)      | misc      | 5     | N/A                   |
+| Non-textual Troubles   | crypto    | 50    | tinnamchoi            |
+| Sanity Check           | reversing | 50    | tinnamchoi            |
+| Lighthouse             | misc      | 489   | covector & tinnamchoi |
+| Juggler                | web       | 383   | covector              |
+| Snake Equality         | misc      | 364   | covector & tinnamchoi |
+| Peter works at Bendigo | crypto    | 50    | covector & tinnamchoi |
+| Colour Blind           | forensics | 50    | tinnamchoi            |
+| Feedback (freebie)     | misc      | 50    | N/A                   |
+| Blurry-Eyed            | misc      | 454   | tinnamchoi            |
 
 ### ASCWG 2022
 
@@ -72,10 +72,10 @@ Too hard for me
 
 #### Solves
 
-| Challenge | Category  | Level   | Value | Time (ACST)     | Solved by  |
-| --------- | --------- | ------- | ----- | --------------- | ---------- |
-| Warmup 2  | forensics | Warm Up | 100   | 20220806-024900 | tinnamchoi |
-| Warmup 1  | forensics | Warm Up | 100   | 20220806-025100 | tinnamchoi |
+| Challenge | Category  | Value | Solved by  |
+| --------- | --------- | ----- | ---------- |
+| Warmup 2  | forensics | 100   | tinnamchoi |
+| Warmup 1  | forensics | 100   | tinnamchoi |
 
 ### corCTF 2022
 
@@ -112,18 +112,62 @@ By far, the worst CTF I've ever played.
 
 #### Solves
 
-| Challenge                         | Category  | Points |
-| --------------------------------- | --------- | ------ |
-| french                            | Crypto    | 100    |
-| Check Check Check                 | Pwnable   | 50     |
-| VISKA                             | Web       | 50     |
-| Before Porta arrives at the port! | Crypto    | 200    |
-| Warmup                            | Reversing | 50     |
-| world                             | Web       | 350    |
-| Travel Japen                      | OSINT     | 250    |
-| Airplane?                         | OSINT     | 400    |
-| Japen Electronic                  | OSINT     | 50     |
-| ro                                | Crypto    | 200    |
-| find me                           | MISC      | 100    |
-| Find us                           | MISC      | 200    |
-| cigarette                         | Web       | 250    |
+| Challenge                         | Category  | Points | Solved by            |
+| --------------------------------- | --------- | ------ | -------------------- |
+| french                            | Crypto    | 100    | tinnamchoi / marishh |
+| Check Check Check                 | Pwnable   | 50     | tinnamchoi           |
+| VISKA                             | Web       | 50     | tinnamchoi           |
+| Before Porta arrives at the port! | Crypto    | 200    | tinnamchoi           |
+| Warmup                            | Reversing | 50     | tinnamchoi           |
+| world                             | Web       | 350    | tinnamchoi           |
+| Travel Japen                      | OSINT     | 250    | tinnamchoi           |
+| Airplane?                         | OSINT     | 400    | tinnamchoi           |
+| Japen Electronic                  | OSINT     | 50     | tinnamchoi           |
+| ro                                | Crypto    | 200    | tinnamchoi           |
+| find me                           | MISC      | 100    | tinnamchoi           |
+| Find us                           | MISC      | 200    | tinnamchoi           |
+| cigarette                         | Web       | 250    | tinnamchoi           |
+
+### S.H.E.L.L. CTF
+
+Good beginner-friendly challenges, but the challenge categories are often inaccurate or even misleading. Diligence shown in reducing downtime though. 
+
+#### Stats
+
+| Field         | Value      |
+| ------------- | ---------- |
+| Placement     | ? out of ? |
+| Points        | ?          |
+| Rating points | ?          |
+
+#### Solves
+
+| Challenge                 | Category  | Points | Solved by  |
+| ------------------------- | --------- | ------ | ---------- |
+| Keygen                    | Reversing | 50     | tinnamchoi |
+| Sanity Check (freebie)    | Misc      | 10     | N/A        |
+| World's Greatest Detecive | Misc      | 25     | tinnamchoi |
+| Pulling the strings       | Reversing | 50     | tinnamchoi |
+| Alien Communication       | Forensics | 100    | tinnamchoi |
+| How to defeat a dragon    | Reversing | 100    | tinnamchoi |
+| warmup                    | Reversing | 100    | tinnamchoi |
+| Tring Tring...            | Crypto    | 100    | tinnamchoi |
+| OX9OR2                    | Crypto    | 200    | tinnamchoi |
+
+### nullcon Goa HackIM CTF 2022
+
+Could not access any challenges at all after doing the sanity check so I just gave up on this. I think T3N4CI0US cursed this one. 
+
+#### Stats
+
+| Field         | Value          |
+| ------------- | -------------- |
+| Placement     | 151 out of 393 |
+| Points        | 2              |
+| Rating points | ?              |
+
+#### Solves
+
+| Challenge              | Category | Points | Solved by |
+| ---------------------- | -------- | ------ | --------- |
+| FREE POINTS! (freebie) | sanity   | 2      | N/A       |
