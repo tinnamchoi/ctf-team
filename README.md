@@ -31,7 +31,7 @@ This was my first CTF so I didn't document it well and it's not on CTFTime so th
 | 5-layer dip | ?        | ?     | tinnamchoi |
 | Dinner      | OSINT    | ?     | tinnamchoi |
 
-### UACTF 2022
+### [UACTF 2022](https://ctftime.org/event/1709)
 
 First CTF with a team, sweated so much on this bruh
 
@@ -58,7 +58,7 @@ First CTF with a team, sweated so much on this bruh
 | Feedback (freebie)     | misc      | 50    | N/A                   |
 | Blurry-Eyed            | misc      | 454   | tinnamchoi            |
 
-### ASCWG 2022
+### [Arab Security Cyber Wargames 2022 Qualifications](https://ctftime.org/event/1690)
 
 Too hard for me
 
@@ -77,7 +77,7 @@ Too hard for me
 | Warmup 2  | forensics | 100   | tinnamchoi |
 | Warmup 1  | forensics | 100   | tinnamchoi |
 
-### corCTF 2022
+### [corCTF 2022](https://ctftime.org/event/1656)
 
 I did so bad in this I'm starting to think I peaked in UACTF
 
@@ -98,7 +98,7 @@ I did so bad in this I'm starting to think I peaked in UACTF
 | tadpole                | crypto   | 109    | tinnamchoi |
 | survey (freebie)       | misc     | 1      | N/A        |
 
-### T3N4CI0US CTF - Escape
+### [T3N4CI0US CTF - Escape](https://ctftime.org/event/1678)
 
 By far, the worst CTF I've ever played. 
 
@@ -128,7 +128,7 @@ By far, the worst CTF I've ever played.
 | Find us                           | MISC      | 200    | tinnamchoi           |
 | cigarette                         | Web       | 250    | tinnamchoi           |
 
-### S.H.E.L.L. CTF
+### [SHELLCTF 2022](https://ctftime.org/event/1604)
 
 Good beginner-friendly challenges, but the challenge categories are often inaccurate or even misleading. Diligence shown in reducing downtime though. 
 
@@ -154,7 +154,7 @@ Good beginner-friendly challenges, but the challenge categories are often inaccu
 | Tring Tring...            | Crypto    | 100    | tinnamchoi |
 | OX9OR2                    | Crypto    | 200    | tinnamchoi |
 
-### nullcon Goa HackIM CTF 2022
+### [nullcon Goa HackIM CTF 2022](https://ctftime.org/event/1718)
 
 Could not access any challenges at all after doing the sanity check so I just gave up on this. I think T3N4CI0US cursed this one. 
 
