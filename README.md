@@ -35,6 +35,8 @@ This was my first CTF so I didn't document it well and it's not on CTFTime so th
 
 First CTF with a team, sweated so much on this bruh
 
+[Writeups and other info](https://github.com/tinnamchoi/uactf-2022-writeups) (public)
+
 #### Stats
 
 | Field         | Value                                               |
@@ -62,6 +64,8 @@ First CTF with a team, sweated so much on this bruh
 
 Too hard for me
 
+[Writeups and other info](https://github.com/tinnamchoi/ascwg-2022-writeups) (private)
+
 #### Stats
 
 | Field         | Value          |
@@ -80,6 +84,8 @@ Too hard for me
 ### [corCTF 2022](https://ctftime.org/event/1656)
 
 I did so bad in this I'm starting to think I peaked in UACTF
+
+[Writeups and other info](https://github.com/tinnamchoi/corctf-2022-writeups) (private)
 
 #### Stats
 
@@ -101,6 +107,8 @@ I did so bad in this I'm starting to think I peaked in UACTF
 ### [T3N4CI0US CTF - Escape](https://ctftime.org/event/1678)
 
 By far, the worst CTF I've ever played. 
+
+[Writeups and other info](https://github.com/tinnamchoi/t3n4ci0us-escape-writeups) (public, multiple branches exist)
 
 #### Stats
 
@@ -132,6 +140,8 @@ By far, the worst CTF I've ever played.
 
 Good beginner-friendly challenges, but the challenge categories are often inaccurate or even misleading. Diligence shown in reducing downtime though. 
 
+[Writeups and other info](https://github.com/tinnamchoi/shellctf-2022-writeups) (private)
+
 #### Stats
 
 | Field         | Value      |
@@ -157,6 +167,8 @@ Good beginner-friendly challenges, but the challenge categories are often inaccu
 ### [nullcon Goa HackIM CTF 2022](https://ctftime.org/event/1718)
 
 Could not access any challenges at all after doing the sanity check so I just gave up on this. I think T3N4CI0US cursed this one. 
+
+Didn't bother making a separate repo for obvious reasons. 
 
 #### Stats
 
