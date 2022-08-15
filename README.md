@@ -142,7 +142,7 @@ By far, the worst CTF I've ever played.
 
 Good beginner-friendly challenges, but the challenge categories are often inaccurate or even misleading. Diligence shown in reducing downtime though. 
 
-[Writeups and other info](https://github.com/tinnamchoi/shellctf-2022-writeups) (private)
+[Writeups and other info](https://github.com/tinnamchoi/shellctf-2022-writeups) (public)
 
 #### Stats
 
