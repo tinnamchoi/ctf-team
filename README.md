@@ -9,6 +9,8 @@
 
 ## Past competitions
 
+> Note: I don't usually publicize my writeup repos unless I had a significant amount of solves, let me know by opening an issue if you want to see the private ones. 
+
 ### DuckCTF
 
 This was my first CTF so I didn't document it well and it's not on CTFTime so there's not much to see here
