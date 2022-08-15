@@ -72,7 +72,7 @@ Too hard for me
 | ------------- | -------------- |
 | Placement     | 189 out of 222 |
 | Points        | 200            |
-| Rating points | ?              |
+| Rating points | 0.575          |
 
 #### Solves
 
@@ -93,7 +93,7 @@ I did so bad in this I'm starting to think I peaked in UACTF
 | ------------- | -------------- |
 | Placement     | 309 out of 978 |
 | Points        | 215            |
-| Rating points | ?              |
+| Rating points | 0.699          |
 
 #### Solves
 
@@ -144,11 +144,11 @@ Good beginner-friendly challenges, but the challenge categories are often inaccu
 
 #### Stats
 
-| Field         | Value      |
-| ------------- | ---------- |
-| Placement     | ? out of ? |
-| Points        | ?          |
-| Rating points | ?          |
+| Field         | Value           |
+| ------------- | --------------- |
+| Placement     | 444 out of 1093 |
+| Points        | 735             |
+| Rating points | ?               |
 
 #### Solves
 
