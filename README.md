@@ -118,7 +118,7 @@ By far, the worst CTF I've ever played.
 | ------------- | ------------- |
 | Placement     | 68 out of 557 |
 | Points        | 2250          |
-| Rating points | ?             |
+| Rating points | 3.544         |
 
 #### Solves
 
@@ -150,7 +150,7 @@ Good beginner-friendly challenges, but the challenge categories are often inaccu
 | ------------- | --------------- |
 | Placement     | 444 out of 1093 |
 | Points        | 735             |
-| Rating points | ?               |
+| Rating points | 2.988           |
 
 #### Solves
 
