@@ -263,20 +263,30 @@ ditto. got bored after this
 
 first time competing with AdelaideB9 (technically AdelaideB8 cuz the team limit was filled)
 
-didn't compete as my individual team but just putting these here for the record
+just putting the ones which I solved independently here for the record
 
 [Writeups and other info](https://github.com/tinnamchoi/ductf-2022-writeups) (private)
 
 #### Stats
 
-| Field         | Value      |
-| ------------- | ---------- |
-| Placement     | ? out of ? |
-| Points        | ?          |
-| Rating points | ?          |
+| Field         | Value           |
+| ------------- | --------------- |
+| Placement     | 349 out of 1407 |
+| Points        | 829             |
+| Rating points | ?               |
 
 #### Solves
 
-| Challenge | Category | Points | Solved by |
-| --------- | -------- | ------ | --------- |
-|           |          |        |           |
+| Challenge                                         | Category | Points | Solved by  |
+| ------------------------------------------------- | -------- | ------ | ---------- |
+| twitter (freebie)                                 | misc     | 50     | N/A        |
+| discord (freebie)                                 | misc     | 50     | N/A        |
+| [Rage!](rage.md)                                  | misc     | 50     | tinnamchoi |
+| [babyp(y)wn](babypywn.md)                         | pwn      | 50     | tinnamchoi |
+| Survey (freebie)                                  | survey   | 50     | N/A        |
+| [Honk Honk](honk-honk.md)                         | OSINT    | 50     | tinnamchoi |
+| [Does it fit my CTF?](does-it-fit-my-ctf.md)      | OSINT    | 50     | tinnamchoi |
+| [Bird's eye view!](birds-eye-view.md)             | OSINT    | 50     | tinnamchoi |
+| Shop-Setup&Disclaimer (freebie)                   | DFIR     | 50     | N/A        |
+| [Land Down Under](land-down-under.md)             | misc     | 329    | tinnamchoi |
+| [Pre-Kebab Competition](pre-kebab-competition.md) | OSINT    | 50     | tinnamchoi |
