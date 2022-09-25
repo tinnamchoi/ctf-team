@@ -17,11 +17,11 @@ This was my first CTF so I didn't document it well and it's not on CTFTime so th
 
 #### Stats
 
-| Field         | Value         |
-| ------------- | ------------- |
-| Placement     | 9 out of ?    |
-| Points        | ?             |
-| Rating points | N/A           |
+| Field         | Value      |
+| ------------- | ---------- |
+| Placement     | 9 out of ? |
+| Points        | ?          |
+| Rating points | N/A        |
 
 #### Solves
 
@@ -185,3 +185,98 @@ Didn't bother making a separate repo for obvious reasons.
 | Challenge              | Category | Points | Solved by |
 | ---------------------- | -------- | ------ | --------- |
 | FREE POINTS! (freebie) | sanity   | 2      | N/A       |
+
+
+### [Paradigm CTF 2022](https://ctftime.org/event/1719)
+
+bruh how do you even access the challenges. i did not bother figuring that out tbh
+
+#### Stats
+
+| Field         | Value             |
+| ------------- | ----------------- |
+| Placement     | infinite out of ? |
+| Points        | 0                 |
+| Rating points | 0                 |
+
+#### Solves
+
+| Challenge | Category | Points | Solved by |
+| --------- | -------- | ------ | --------- |
+| (none)    | N/A      | 0      | N/A       |
+
+### [Hacker's Playground 2022](https://ctftime.org/event/1715)
+
+Loved the tutorial challenges, great for beginners. The tutorials didn't give too much away so you still learn a lot from them. 
+
+#### Stats
+
+| Field         | Value          |
+| ------------- | -------------- |
+| Placement     | 144 out of 736 |
+| Points        | 460            |
+| Rating points | 2.256          |
+
+#### Solves
+
+| Challenge                                      | Category | Points | Solved by  |
+| ---------------------------------------------- | -------- | ------ | ---------- |
+| (all the tutorial challenges and nothing else) | N/A      | 0      | tinnamchoi |
+
+### [MapleCTF 2022](https://ctftime.org/event/1676)
+
+yeah i'll be honest, i was here for brownie points. nice looking site tho
+
+#### Stats
+
+| Field         | Value          |
+| ------------- | -------------- |
+| Placement     | 391 out of 618 |
+| Points        | 1              |
+| Rating points | 0.064          |
+
+#### Solves
+
+| Challenge               | Category | Points | Solved by  |
+| ----------------------- | -------- | ------ | ---------- |
+| (just the sanity check) | N/A      | 1      | tinnamchoi |
+
+### [Balsn 2022](https://ctftime.org/event/1697)
+
+ditto. got bored after this
+
+#### Stats
+
+| Field         | Value          |
+| ------------- | -------------- |
+| Placement     | 328 out of 584 |
+| Points        | 50             |
+| Rating points | 0.714          |
+
+#### Solves
+
+| Challenge               | Category | Points | Solved by  |
+| ----------------------- | -------- | ------ | ---------- |
+| (just the sanity check) | N/A      | 50     | tinnamchoi |
+
+### [DownUnderCTF 2022 (Online)](https://ctftime.org/event/1625)
+
+first time competing with AdelaideB9 (technically AdelaideB8 cuz the team limit was filled)
+
+didn't compete as my individual team but just putting these here for the record
+
+[Writeups and other info](https://github.com/tinnamchoi/ductf-2022-writeups) (private)
+
+#### Stats
+
+| Field         | Value      |
+| ------------- | ---------- |
+| Placement     | ? out of ? |
+| Points        | ?          |
+| Rating points | ?          |
+
+#### Solves
+
+| Challenge | Category | Points | Solved by |
+| --------- | -------- | ------ | --------- |
+|           |          |        |           |
